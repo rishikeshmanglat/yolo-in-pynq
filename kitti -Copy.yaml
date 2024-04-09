@@ -1,0 +1,12 @@
+names:
+- Person
+- Van
+- Car
+- Bike
+- Person_sitting
+- Misc
+- Tram
+- Truck
+nc: 8
+train: C:\Users\rishi\Desktop\Main project\train
+val: C:\Users\rishi\Desktop\Main project\valid
